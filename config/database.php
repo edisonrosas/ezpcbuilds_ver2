@@ -55,12 +55,14 @@ return [
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
             'prefix' => '',
-            'prefix_indexes' => true,
+            'sslmode' => env('DB_SSLMODE', 'prefer'),
+            'options'   => array(
+                PDO::MYSQL_ATTR_SSL_CA      => '/home/.../ca-cert.pem',
+                PDO::MYSQL_ATTR_SSL_CERT    => '/home/.../cert.pem',
+                PDO::MYSQL_ATTR_SSL_KEY     => '/home/.../key.pem'
+            ),
             'strict' => true,
             'engine' => null,
-            'options' => extension_loaded('pdo_mysql') ? array_filter([
-                PDO::MYSQL_ATTR_SSL_CA => env('MYSQL_ATTR_SSL_CA'),
-            ]) : [],
         ],
 
         'pgsql' => [

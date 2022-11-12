@@ -20,6 +20,7 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "paypal/rest-api-sdk-php": "*"
+
     },
     "require-dev": {
         "facade/ignition": "^2.5",

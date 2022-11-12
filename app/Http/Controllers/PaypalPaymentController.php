@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\URL;
 use Illuminate\Support\Str;
+
 use PayPal\Api\Amount;
 use PayPal\Api\Item;
 use PayPal\Api\ItemList;
@@ -23,24 +24,131 @@ use PayPal\Api\Transaction;
 use PayPal\Auth\OAuthTokenCredential;
 use PayPal\Common\PayPalModel;
 use PayPal\Rest\ApiContext;
+
 //require __DIR__  . '/PayPal-PHP-SDK/autoload.php';
 //require __DIR__  . '/PayPal-PHP-SDK/autoload.php';
 
 class PaypalPaymentController extends Controller
 {
-        public function __construct()
+
+    private $_api_context;
+    public function __construct()
     {
 
         $paypal_conf = Config::get('paypal');
-        
-        $this->_api_context =  new \PayPal\Rest\ApiContext(new OAuthTokenCredential(
+       // dd($paypal_conf);
+        $this->_api_context =  new ApiContext(new OAuthTokenCredential(
                 $paypal_conf['client_id'],
                 $paypal_conf['secret'])
         );
+
+       
         $this->_api_context->setConfig($paypal_conf['settings']);
+        dd( $this->_api_context);
+    }
+    public function payWithpaypal(Request $request)
+    {
+
+        // $order = Order::with(['details'])->where(['id' => session('order_id')])->first();
+
+
+        // $tr_ref = Str::random(6) . '-' . rand(1, 1000);
+
+        $payer = new Payer();
+        $payer->setPaymentMethod('paypal');
+
+        $items_array = [];
+        $item = new Item();
+        $number = sprintf("%0.2f", 1);
+
+
+        $item->setName('TEST_ITEM_NAME')
+            ->setCurrency('USD')
+            ->setQuantity(1)
+            ->setPrice($number);
+
+        array_push($items_array, $item);
+
+        $item_list = new ItemList();
+        $item_list->setItems($items_array);
+
+        $amount = new Amount();
+
+        $amount->setCurrency('USD')
+            ->setTotal($number);
+        // \session()->put('transaction_reference', $tr_ref);
+        $transaction = new Transaction();
+        $transaction->setAmount($amount)
+            ->setItemList($item_list)
+            ->setDescription('DESCRIPCION LUIS');
+
+        $redirect_urls = new RedirectUrls();
+        $redirect_urls->setReturnUrl(URL::route('paypal-status'))
+            ->setCancelUrl(URL::route('payment-fail'));
+
+        $payment = new Payment();
+        $payment->setIntent('Sale')
+            ->setPayer($payer)
+            ->setRedirectUrls($redirect_urls)
+            ->setTransactions(array($transaction));
+
+        try {
+
+            $payment->create($this->_api_context);
+
+
+            /**
+             * Get redirect url
+             * The API response provides the url that you must redirect
+             * the buyer to. Retrieve the url from the $payment->getLinks() method
+             *
+             */
+
+            foreach ($payment->getLinks() as $key => $link) {
+
+                if ($link->getRel() == 'approval_url') {
+
+                    $redirectUrl = $link->getHref();
+
+                    break;
+                }
+            }
+
+            //$status = OrderTrack::where('success', 'success')->first();
+            //dd($status);
+            // DB::table('orders')
+            //     ->where('id', $order->id)
+            //     ->update([
+            //         'transaction_reference' => $payment->getId(),
+            //         'payment_method' => 'paypal',
+            //         'order_status' => 'success',
+            //         'failed' => now(),
+            //         //'status_id'=>$status->id,
+            //         'updated_at' => now()
+            //     ]);
+
+            // Session::put('paypal_payment_id', $payment->getId());
+
+            if (isset($redirectUrl)) {
+
+                return Redirect::away($redirectUrl);
+            } else {
+                dd("bye");
+            }
+        } catch (\Exception $ex) {
+            // dd($ex->getData()["error_description"]);
+            // Toastr::error(trans($ex->getData()));
+            dd('ERROR EN PAYMENT CREATE', $ex);
+
+            //Toastr::error(trans('messages.your_currency_is_not_supported',['method'=>trans('messages.paypal')]));
+            return back();
+        }
+
+        // Session::put('error', trans('messages.config_your_account', ['method' => trans('messages.paypal')]));
+        return back();
     }
 
-    public function payWithpaypal(Request $request)
+    public function payWithpaypalv2(Request $request)
     {
        
         $order = Order::with(['details'])->where(['id' => session('order_id')])->first();
@@ -195,4 +303,20 @@ class PaypalPaymentController extends Controller
             return \redirect()->route('payment-fail');
         }*/
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

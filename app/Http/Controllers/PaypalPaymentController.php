@@ -44,8 +44,9 @@ class PaypalPaymentController extends Controller
 
        
         $this->_api_context->setConfig($paypal_conf['settings']);
-        dd( $this->_api_context);
+       # dd( $this->_api_context);
     }
+
     public function payWithpaypal(Request $request)
     {
 

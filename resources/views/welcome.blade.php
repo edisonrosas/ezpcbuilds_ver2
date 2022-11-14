@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Politica de Privacidad</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -41,8 +41,7 @@
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">
                         <g clip-path="url(#clip0)" fill="#EF3B2D">
-                            <path d="M248.032 44.676h-16.466v100.23h47.394v-14.748h-30.928V44.676zM337.091 87.202c-2.101-3.341-5.083-5.965-8.949-7.875-3.865-1.909-7.756-2.864-11.669-2.864-5.062 0-9.69.931-13.89 2.792-4.201 1.861-7.804 4.417-10.811 7.661-3.007 3.246-5.347 6.993-7.016 11.239-1.672 4.249-2.506 8.713-2.506 13.389 0 4.774.834 9.26 2.506 13.459 1.669 4.202 4.009 7.925 7.016 11.169 3.007 3.246 6.609 5.799 10.811 7.66 4.199 1.861 8.828 2.792 13.89 2.792 3.913 0 7.804-.955 11.669-2.863 3.866-1.908 6.849-4.533 8.949-7.875v9.021h15.607V78.182h-15.607v9.02zm-1.431 32.503c-.955 2.578-2.291 4.821-4.009 6.73-1.719 1.91-3.795 3.437-6.229 4.582-2.435 1.146-5.133 1.718-8.091 1.718-2.96 0-5.633-.572-8.019-1.718-2.387-1.146-4.438-2.672-6.156-4.582-1.719-1.909-3.032-4.152-3.938-6.73-.909-2.577-1.36-5.298-1.36-8.161 0-2.864.451-5.585 1.36-8.162.905-2.577 2.219-4.819 3.938-6.729 1.718-1.908 3.77-3.437 6.156-4.582 2.386-1.146 5.059-1.718 8.019-1.718 2.958 0 5.656.572 8.091 1.718 2.434 1.146 4.51 2.674 6.229 4.582 1.718 1.91 3.054 4.152 4.009 6.729.953 2.577 1.432 5.298 1.432 8.162-.001 2.863-.479 5.584-1.432 8.161zM463.954 87.202c-2.101-3.341-5.083-5.965-8.949-7.875-3.865-1.909-7.756-2.864-11.669-2.864-5.062 0-9.69.931-13.89 2.792-4.201 1.861-7.804 4.417-10.811 7.661-3.007 3.246-5.347 6.993-7.016 11.239-1.672 4.249-2.506 8.713-2.506 13.389 0 4.774.834 9.26 2.506 13.459 1.669 4.202 4.009 7.925 7.016 11.169 3.007 3.246 6.609 5.799 10.811 7.66 4.199 1.861 8.828 2.792 13.89 2.792 3.913 0 7.804-.955 11.669-2.863 3.866-1.908 6.849-4.533 8.949-7.875v9.021h15.607V78.182h-15.607v9.02zm-1.432 32.503c-.955 2.578-2.291 4.821-4.009 6.73-1.719 1.91-3.795 3.437-6.229 4.582-2.435 1.146-5.133 1.718-8.091 1.718-2.96 0-5.633-.572-8.019-1.718-2.387-1.146-4.438-2.672-6.156-4.582-1.719-1.909-3.032-4.152-3.938-6.73-.909-2.577-1.36-5.298-1.36-8.161 0-2.864.451-5.585 1.36-8.162.905-2.577 2.219-4.819 3.938-6.729 1.718-1.908 3.77-3.437 6.156-4.582 2.386-1.146 5.059-1.718 8.019-1.718 2.958 0 5.656.572 8.091 1.718 2.434 1.146 4.51 2.674 6.229 4.582 1.718 1.91 3.054 4.152 4.009 6.729.953 2.577 1.432 5.298 1.432 8.162 0 2.863-.479 5.584-1.432 8.161zM650.772 44.676h-15.606v100.23h15.606V44.676zM365.013 144.906h15.607V93.538h26.776V78.182h-42.383v66.724zM542.133 78.182l-19.616 51.096-19.616-51.096h-15.808l25.617 66.724h19.614l25.617-66.724h-15.808zM591.98 76.466c-19.112 0-34.239 15.706-34.239 35.079 0 21.416 14.641 35.079 36.239 35.079 12.088 0 19.806-4.622 29.234-14.688l-10.544-8.158c-.006.008-7.958 10.449-19.832 10.449-13.802 0-19.612-11.127-19.612-16.884h51.777c2.72-22.043-11.772-40.877-33.023-40.877zm-18.713 29.28c.12-1.284 1.917-16.884 18.589-16.884 16.671 0 18.697 15.598 18.813 16.884h-37.402zM184.068 43.892c-.024-.088-.073-.165-.104-.25-.058-.157-.108-.316-.191-.46-.056-.097-.137-.176-.203-.265-.087-.117-.161-.242-.265-.345-.085-.086-.194-.148-.29-.223-.109-.085-.206-.182-.327-.252l-.002-.001-.002-.002-35.648-20.524a2.971 2.971 0 00-2.964 0l-35.647 20.522-.002.002-.002.001c-.121.07-.219.167-.327.252-.096.075-.205.138-.29.223-.103.103-.178.228-.265.345-.066.089-.147.169-.203.265-.083.144-.133.304-.191.46-.031.085-.08.162-.104.25-.067.249-.103.51-.103.776v38.979l-29.706 17.103V24.493a3 3 0 00-.103-.776c-.024-.088-.073-.165-.104-.25-.058-.157-.108-.316-.191-.46-.056-.097-.137-.176-.203-.265-.087-.117-.161-.242-.265-.345-.085-.086-.194-.148-.29-.223-.109-.085-.206-.182-.327-.252l-.002-.001-.002-.002L40.098 1.396a2.971 2.971 0 00-2.964 0L1.487 21.919l-.002.002-.002.001c-.121.07-.219.167-.327.252-.096.075-.205.138-.29.223-.103.103-.178.228-.265.345-.066.089-.147.169-.203.265-.083.144-.133.304-.191.46-.031.085-.08.162-.104.25-.067.249-.103.51-.103.776v122.09c0 1.063.568 2.044 1.489 2.575l71.293 41.045c.156.089.324.143.49.202.078.028.15.074.23.095a2.98 2.98 0 001.524 0c.069-.018.132-.059.2-.083.176-.061.354-.119.519-.214l71.293-41.045a2.971 2.971 0 001.489-2.575v-38.979l34.158-19.666a2.971 2.971 0 001.489-2.575V44.666a3.075 3.075 0 00-.106-.774zM74.255 143.167l-29.648-16.779 31.136-17.926.001-.001 34.164-19.669 29.674 17.084-21.772 12.428-43.555 24.863zm68.329-76.259v33.841l-12.475-7.182-17.231-9.92V49.806l12.475 7.182 17.231 9.92zm2.97-39.335l29.693 17.095-29.693 17.095-29.693-17.095 29.693-17.095zM54.06 114.089l-12.475 7.182V46.733l17.231-9.92 12.475-7.182v74.537l-17.231 9.921zM38.614 7.398l29.693 17.095-29.693 17.095L8.921 24.493 38.614 7.398zM5.938 29.632l12.475 7.182 17.231 9.92v79.676l.001.005-.001.006c0 .114.032.221.045.333.017.146.021.294.059.434l.002.007c.032.117.094.222.14.334.051.124.088.255.156.371a.036.036 0 00.004.009c.061.105.149.191.222.288.081.105.149.22.244.314l.008.01c.084.083.19.142.284.215.106.083.202.178.32.247l.013.005.011.008 34.139 19.321v34.175L5.939 144.867V29.632h-.001zm136.646 115.235l-65.352 37.625V148.31l48.399-27.628 16.953-9.677v33.862zm35.646-61.22l-29.706 17.102V66.908l17.231-9.92 12.475-7.182v33.841z"/>
-                        </g>
+                            </g>
                     </svg>
                 </div>
 
@@ -51,78 +50,180 @@
                         <div class="p-6">
                             <div class="flex items-center">
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laravel.com/docs" class="underline text-gray-900 dark:text-white">Documentation</a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="" class="underline text-gray-900 dark:text-white">   POLÍTICA DE PRIVACIDAD</a></div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
-                                </div>
-                            </div>
-                        </div>
 
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"></path><path d="M15 13a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laracasts.com" class="underline text-gray-900 dark:text-white">Laracasts</a></div>
-                            </div>
+Ezpcbuilds se preocupa por los asuntos relativos a privacidad y quiere que usted conozca cómo recopilamos, usamos y revelamos la información. La presente Política de Privacidad describe nuestras prácticas en relación con la información que nosotros o nuestros proveedores de servicios externos recopilan a través de algunos de nuestros sitios web, propiedades web (por ejemplo, widgets y aplicaciones) y aplicaciones móviles ("Apps móviles"), de nuestra propiedad o gestionados por nosotros en cada caso que enlazan a esta Política de Privacidad (cada uno de ellos, en lo sucesivo, una "Propiedad" o conjuntamente, las "Propiedades"). Al proporcionarnos Información Personal (como se define a continuación) a través de las Propiedades, usted reconoce que ha leído esta Política de Privacidad y que entiende los términos y condiciones que contiene.
 
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
-                                </div>
-                            </div>
-                        </div>
+1. INFORMACIÓN PERSONAL
+1.1 Información personal que podremos recopilar
+En relación con las Propiedades, se recopilan dos tipos de información: Información personal y Otra información. "Información personal" es información que le identifica o le hace identificable como individuo. "Otra información" es cualquier información que no revele su identidad específica. Si estamos obligados a tratar Otra información como Información personal en virtud de la legislación aplicable, la usaremos y revelaremos para los fines para los que usamos y revelamos la Información personal, como se detalla en esta Política. Otra información tiene su propio apartado más adelante, bajo el epígrafe "OTRA INFORMACIÓN".
+Nosotros y nuestros proveedores de servicios externos podremos recopilar la siguiente Información personal de usted, como:
+•	Nombre
+•	Dirección postal (incluidas las direcciones de facturación y envío)
+•	Número teléfono
+•	Dirección de correo electrónico
+•	Fecha de nacimiento
+•	Número de tarjeta de crédito y débito
+•	Detalles de compra
+•	Talla, peso (si usa un asesor de talla)
+1.2 Recopilación de Información personal
+Nosotros y nuestros proveedores de servicios externos recopilamos Información personal a través de las Propiedades de varias maneras, incluidas:
+1.2.1 A través de las Propiedades
+Podremos recopilar Información personal a través de las Propiedades, por ejemplo, cuando usted se registra en newsletter u otras comunicaciones a través de las propiedades, cuando registra una cuenta de cliente, hace una compra o una solicitud.
+1.2.2 Fuera de Internet
+Podremos recopilar Información personal sobre usted fuera de Internet, por ejemplo, si nos proporciona información en una tienda física E.M.P. o en el recinto de un concierto.
+1.2.3 De Otras fuentes
+Podremos recibir su Información personal de otras fuentes, por ejemplo:
+•	bases de datos de direcciones; o
+•	socios de marketing cuando comparten información con nosotros en el contexto de campañas de marketing y de promoción relacionadas con nuestra actividad.
+Si usa sus redes sociales u otra cuenta de terceros para participar en nuestros sorteos, concursos o promociones o a través de una pasarela para iniciar sesión en dicha cuenta en nuestras Propiedades, compartirá determinada Información personal de su cuenta de tercero con nosotros, que puede incluir, por ejemplo, su nombre, dirección de correo electrónico, fotografía, lista de contactos de redes sociales, historial de música escuchada, canciones favoritas y cualquier otra información cuyo acceso usted facilita o a la que podemos acceder de otro modo cuando usted se conecta a través de dicha cuenta de terceros.
+1.2.4
+No es necesario que nos proporcione ninguna Información personal en virtud de ninguna ley o contrato. Por ejemplo, cuando usted participa en varias oportunidades que se ofrecen a través de las Propiedades, recopilamos Información personal sobre usted para permitirle a usted (o a nosotros) mejorar su experiencia en las Propiedades.
+1.3 Cómo usamos la Información personal
+Nosotros y nuestros proveedores de servicios externos usamos Información personal para los siguientes fines empresariales, incluidos:
+1.3.1
+Proporcionar la operatividad de las Propiedades y llevar a cabo sus solicitudes.
+•	Proporcionarle la operatividad de las Propiedades, como facilitar el acceso a su cuenta registrada y ofrecerle el servicio al cliente correspondiente.
+•	Responder a sus solicitudes y atender sus peticiones, cuando se pone en contacto con nosotros a través de los formularios de contacto online o de otro modo, por ejemplo, cuando nos envía preguntas, sugerencias, felicitaciones o quejas, o cuando solicita información acerca de nuestras Propiedades.
+•	Para enviarle información administrativa, incluida la información relativa a las Propiedades y cambios de nuestros términos, condiciones y políticas.
+•	Para completar y realizar su compra, por ejemplo, para procesar sus pagos, enviarle su pedido, comunicarnos con usted en relación con su compra y ofrecerle el servicio al cliente correspondiente.
+•	Para proporcionarle el servicio al cliente internacional de todas las empresas EMP.
+Desarrollaremos estas actividades para gestionar nuestra relación contractual con usted y/o cumplir con una obligación legal.
+1.3.2
+Para enviarle nuestro boletín de noticias y/u otros materiales de marketing y para facilitar que se comparta a través de las redes sociales.
+•	Para enviarle periódicamente newsletters con información acerca de nuestros productos, servicios y newsletter con información de nuestras filiales del Grupo Warner Music. También puede optar por dar información adicional al suscribirse al boletín de noticias. Si se ha suscrito a nuestro boletín de noticias, recibirá un correo electrónico nuestro. Para completar su suscripción a nuestro boletín de noticias, tendrá que hacer clic en el vínculo de activación desde dicho correo.
+•	Para enviarle otras ofertas de marketing que creemos que le resultarán de interés si usted ha indicado que desea recibirlas (incluidas, entre otras, novedades de nuestros proveedores de servicios externos que envían correo directo y otro tipo de publicidad).
+•	Para enviarle mensajes de texto SMS a su número de teléfono, por ejemplo, si ha participado en un sorteo con este número y ha indicado que desea recibirlo. Tenga en cuenta que pueden ser aplicables tarifas de mensajes y transmisión de datos. Deberá confirmar con su proveedor de servicios móviles las tarifas de transmisión de datos.
+Llevaremos a cabo esta actividad con su consentimiento o porque tenemos un interés legítimo.
+1.3.5
+Agregar y/o mantener anónima la Información personal.
+•	Podremos agregar y/o mantener anónima la Información personal de modo que ya no se considere Información personal. Lo hacemos para generar otros datos para nuestro uso, que podremos usar y revelar para cualquier fin.
+Llevaremos a cabo esta actividad porque tenemos un interés legítimo.
+1.3.6
+Cumplimiento de nuestros objetivos empresariales.
+•	Análisis de datos, por ejemplo, para mejorar la eficiencia de nuestras Propiedades;
+•	Auditorías, para verificar que nuestros procesos internos funcionan como es debido y cumplen las exigencias legales, reglamentarias o contractuales;
+•	Para fines de control de fraude y seguridad, por ejemplo, para detectar y prevenir ciberataques o intentos de cometer usurpación de la identidad;
+•	Para desarrollar nuevos productos y servicios;
+•	Para mejorar o modificar nuestros productos y servicios actuales;
+•	Para identificar tendencias de uso, por ejemplo, entendiendo qué partes de nuestras Propiedades son las más interesantes para los usuarios;
+•	Para determinar la efectividad de las campañas promocionales de modo que podamos adaptar nuestras campañas a las necesidades e intereses de los usuarios;
+•	Para operar y expandir nuestras actividades empresariales, por ejemplo, entender qué partes de nuestras Propiedades son de mayor interés para nuestros usuarios de modo que podamos centrar nuestros esfuerzos en adaptarnos a los intereses de nuestros usuarios.
+Participamos en dichas actividades para gestionar nuestra relación contractual con usted, para cumplir una obligación legal y/o porque tenemos un interés legítimo en ello.
 
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laravel-news.com/" class="underline text-gray-900 dark:text-white">Laravel News</a></div>
-                            </div>
+1.5 Otros usos y exposiciones
+También usamos y revelamos su Información personal si es necesario o adecuando, especialmente cuando tenemos la obligación legal de hacerlo o un interés legítimo en ello:
+1.5.1
+Para cumplir con la legislación aplicable.
+•	Esto puede incluir leyes fuera de su país de residencia.
+1.5.2
+Para responder a solicitudes de autoridades públicas o gubernamentales.
+•	Pueden incluir autoridades fuera de su país de residencia.
+1.5.3
+Para cooperar con el cumplimiento de la ley.
+•	Por ejemplo, cuando respondemos a solicitudes y órdenes de ejecución de la ley.
+1.5.4
+Por otros motivos jurídicos.
+•	Para hacer cumplir nuestros términos y condiciones
+•	Para proteger nuestras operaciones o las de cualquiera de nuestros afiliados o artistas;
+•	Para proteger nuestros derechos, a nuestros artistas, a usted o a otros; o
+•	Para permitirnos recurrir o limitar los daños que podamos sufrir.
+1.5.5
+En relación a una venta o transacción comercial.
+•	Tenemos un interés legítimo en revelar o transferir su información personal a un tercero en caso de cualquier reorganización, fusión, venta, empresa conjunta, cesión, transferencia u otra disposición de todo o parte de nuestro negocio, activos o existencias (incluidos los relacionados con cualquier procedimiento de quiebra o procedimiento similar). Dichos terceros pueden incluir, por ejemplo, la entidad adquiriente y sus asesores.
 
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
-                                </div>
-                            </div>
-                        </div>
+1.6 Período de conservación de datos
+Conservaremos su Información personal el tiempo que sea necesario o durante el tiempo que esté permitido a la luz del/los fin(es) para los que se obtuvo y conforme a la legislación aplicable.
+Los criterios que aplicamos para determinar nuestros periodos de conservación incluyen:
+•	El transcurso de tiempo durante el cual tengamos una relación con usted y le proporcionemos las Propiedades a usted (por ejemplo, mientras tenga una cuenta con nosotros o siga usando las Propiedades);
+•	Si existe una obligación legal a la que estemos sujetos (por ejemplo, ciertas leyes requieren que mantengamos registros de sus transacciones durante un determinado periodo de tiempo antes de que podamos eliminarlos); o
+•	Si es aconsejable una conservación en vista de nuestra situación jurídica (como en relación con regímenes de prescripción, litigios o investigaciones reglamentarias aplicables).
+1.7 Información confidencial
+Le pedimos que no nos envíe ni nos revele ninguna Información personal confidencial (como números de seguridad social, información relativa a su origen racial o étnico, opiniones políticas, religión u otras creencias, salud, antecedentes penales o afiliación sindical) en o a través de las Propiedades o de otro modo.
 
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">Vibrant Ecosystem</div>
-                            </div>
+2. OTRA INFORMACIÓN QUE PODREMOS RECOPILAR
+Nosotros y nuestros proveedores de servicios externos podremos recopilar Otra información (como se ha definido anteriormente), como:
+•	Navegador e información de dispositivo
+•	Datos de uso de App móvil
+•	Archivos de registro del servidor
+•	Información recopilada a través de cookies, etiquetas de píxel y otras tecnologías. Consulte nuestra Política de Cookies para obtener información más detallada acerca de cómo usamos las cookies.
+•	Información de ubicación geográfica
+•	Información demográfica y otra información que no permite identificarle personalmente que usted ha proporcionado
+•	Información sobre cómo usa las Propiedades
+•	Información agregada
+2.1 Cómo recopilamos Otra información
+Nosotros y nuestros proveedores de servicios externos podremos recopilar otra información de varias maneras, incluidas:
+2.1.1
+A través de su navegador o su dispositivo:
+La mayoría de buscadores recopilan determinada información, como su dirección de Control de acceso de medios (MAC), tipo de dispositivo (Windows o Macintosh), resolución de pantalla, versión del sistema operativo, tipo y versión del buscador de Internet y versión y tipo de la Propiedad que usted está usando. Nosotros y nuestros proveedores de servicios podremos recopilar además un identificador de dispositivo único asignado por nosotros o nuestros proveedores de servicios al dispositivo desde el que usted accede a una Propiedad y otra información de transacción del dispositivo que nosotros y nuestros proveedores de servicios podremos usar para proporcionar contenido y anuncios al dispositivo.
+2.1.2
+A través de su uso de las Apps móviles:
+Cuando usted descarga y utiliza una App móvil, nosotros y nuestros proveedores de servicios podremos rastrear y recopilar datos de uso de la App móvil, como la fecha y la hora en la que la App móvil en su dispositivo accede a nuestros servidores y qué información y archivos se han descargado a la App móvil en base a su número de dispositivo.
+2.1.3
+A través de los archivos de registro del servidor:
+Una dirección de Protocolo de Internet (IP) es un número que se asigna automáticamente a su dispositivo desde el que usted accede a la Propiedad a través de su Proveedor de Servicios de Internet (ISP), y se identifica y registra automáticamente en los archivos de registro de nuestro servidor siempre que visite la Propiedad junto con el tiempo de la visita y la actividad en la Propiedad. Nosotros y nuestros proveedores de servicios usamos direcciones IP para calcular los niveles de uso de la Propiedad, ayudar a diagnosticar problemas del servidor, administrar las Propiedades y determinar su ubicación geográfica aproximada.
+2.1.5
+Información de ubicación geográfica
+Si usa cualquier producto o servicio que permite la ubicación, nos enviará información de ubicación. Cuando use un servicio que permita la ubicación, podremos recopilar y tratar información sobre su ubicación geográfica precisa, como señales de GPS enviadas por un dispositivo móvil. Nosotros y nuestros proveedores de servicios externos podremos usar la ubicación física de su dispositivo para proporcionarle servicios, contenido y publicidad basados en la ubicación. En algunos casos, se le permitirá negar tales usos de la ubicación de su dispositivo, pero si decide negar dichos usos, no podremos proporcionarle los servicios y el contenido personalizado correspondiente.
+2.1.6
+De usted:
+Podremos recopilar información demográfica, como su código postal o su sexo, así como otra información como sus maneras preferidas para comunicarse, cuando usted nos proporcione voluntariamente esta información. Esta información no le identifica personalmente ni a usted ni a ningún otro usuario de las Propiedades, a menos que se añada más información que pueda permitir que se produzca la identificación. En tal caso, la información se tratará como Información personal.
+2.1.7
+Información sobre cómo interactúa con las Propiedades:
+Podremos recopilar información sobre cómo interactúa con las Propiedades. Por ejemplo, algunas Propiedades pueden utilizar herramientas analíticas para ayudarnos a ofrecerle un servicio mejor con mejores productos, servicios y revisiones de las Propiedades. Esta información recopilada puede indicarnos qué servicios y características utiliza más en una Propiedad, así como el tipo de dispositivo y las características del hardware, el país y el idioma de descarga, etc.
+2.1.8
+Agregando información:
+Podremos agregar Información personal de modo que el producto final no le identifique personalmente ni a ningún usuario de las Propiedades, por ejemplo, usando la Información personal para calcular el porcentaje de nuestros usuarios a los que les gusta un artista concreto.
+2.1.9
+Recopilamos datos personales cuando se registra para obtener una cuenta de cliente mediante el inicio de sesión único ("SSO"). Si ya tiene una cuenta con un proveedor de SSO, puede registrarse para obtener una cuenta de cliente sin pasar por el proceso de registro e inicio de sesión. Para hacer esto, debe confirmar el registro de SSO usando un botón de SSO y verificar su identidad con el proveedor de SSO o ya estar registrado con este proveedor. Según el proveedor de SSO respectivo, usted nos proporciona algunos de sus datos personales de su cuenta de SSO durante el proceso de registro inicial de SSO. Suele ser el nombre y la dirección de correo electrónico de la cuenta SSO. Usamos estos datos para crear su cuenta de cliente y vincularla a la cuenta SSO. Llevamos a cabo estas actividades para regular nuestra relación contractual de cuenta de cliente con usted (Artículo 6 (1) (b) GDPR).
+2.1.9.1 Iniciar sesión con Apple
+Este servicio SSO es proporcionado por Apple Inc, One Apple Park Way; Cupertino, CA 95014, EE. UU., y sus filiales (coloquialmente, "Apple"). Más información sobre el servicio SSO "Iniciar sesión con Apple" está disponible en Apple en https://support.apple.com/en-gb/HT210318. No tenemos control sobre los datos que Apple recopila mediante el uso del servicio "Iniciar sesión con Apple" o su procesamiento posterior. Para obtener información sobre cómo Apple procesa los datos, consulte la Política de privacidad de Apple en https://www.apple.com/legal/privacy/en-ww/.
+2.1.9.2 Iniciar sesión con Google (botón SSO 'Iniciar sesión con Google')
+Este servicio SSO es proporcionado por Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, EE. UU., y sus afiliados (coloquialmente, "Google"). Google proporciona más información sobre el servicio SSO "Iniciar sesión con Google" en https://support.google.com/accounts/answer/112802?hl=en. No tenemos control sobre los datos que Google recopila a través del uso del servicio "Iniciar sesión con Google" o su procesamiento posterior. Para obtener información sobre cómo Google procesa los datos, consulte la Política de privacidad de Google en https://policies.google.com/privacy?hl=en-GB.
+2.1.9.3 Plugins sociales:
+Nuestros complementos no están integrados en nuestro sitio web sin restricción, sino solo mediante un vínculo HTML (denominado "complemento shariff"). Este tipo de integración garantiza que no se establecerá una conexión al servicio del proveedor de redes sociales todavía por usar nuestro sitio web. Si hace clic en un botón de una red social, se abrirá una nueva ventana y un acceso a la página del proveedor de servicios. Con el fin y en el ámbito de la recogida de datos y el procesamiento y uso adicional de datos por parte de proveedores de redes sociales en sus sitios web respectivos, y para sus derechos y opciones de configuración relacionados para proteger su privacidad, consulte las políticas de privacidad de datos de los proveedores
+2.2 Cómo podemos usar y revelar Otra información
+Tenga en cuenta que podremos usar y revelar otra información para cualquier fin, excepto cuando la ley aplicable nos obligue a lo contrario. Si la ley nos obliga a tratar Otra información como Información personal, la usaremos como se describe en la sección "Cómo recopilamos Otra información", más arriba, así como para todos los fines para los que usamos y revelamos la Información personal. En algunos casos, combinaremos Otra información con la Información personal (como combinar su nombre y su ubicación geográfica). Si combinamos Otra información con su Información personal, la información combinada la trataremos como Información personal mientras esté combinada.
+3. SEGURIDAD
+Aplicaremos las medidas físicas, técnicas y administrativas razonables para proteger la Información personal que se encuentre bajo nuestro control. Si tiene motivos para creer que su interacción con nosotros ya no es segura, notifíquenoslo inmediatamente conforme a la sección "Contacto", que se incluye más adelante.
+4. SUS DERECHOS
+4.1 Sus elecciones en relación a nuestro uso y revelación de su Información personal
+Le proporcionamos muchas elecciones sobre cómo podemos usar y revelar su Información personal para fines de marketing.
+Usted podrá rechazar lo siguiente, como se establece a continuación:
+4.1.1
+Recibir nuestros correos electrónicos relacionados con marketing o los de nuestros afiliados:
+4.1.2
+Si no desea recibir nuestros correos electrónicos relacionados con marketing o los de nuestros afiliados en adelante, podrá optar por dejar de recibir dichos correos electrónicos usando el mecanismo de cancelación de suscripción que se proporciona en el correo electrónico o escribiéndonos un correo electrónico a [ ezpcbuildsservice@gmail.com]. Recibir mensajes de texto SMS nuestros y de nuestros afiliados:
+Si no desea recibir nuestros mensajes de texto SMS relacionados con marketing o los de nuestros afiliados en adelante, podrá optar por dejar de recibir dichos mensajes enviándonos un mensaje de texto de respuesta con el texto "STOP" o escribiéndonos un correo electrónico a [ezpcbuildsservice@gmail.com .
+4.1.3
+Que compartamos su Información personal con artistas o terceros no afiliados para sus fines de marketing:
+Si prefiere que no compartamos su Información personal con en adelante con artistas o partes no afiliadas para sus fines de marketing, puede optar por que dejemos de compartir dicha información enviándonos un correo electrónico a [ ezpcbuildsservice@gmail.com] Indique claramente en su correo qué es lo que rechaza. Cumpliremos su(s) solicitud(es) en cuanto sea razonablemente posible, en cualquier caso, dentro del periodo que establece la ley. Tenga en cuenta que, si opta por dejar de recibir nuestros mensajes relacionados con marketing, podremos seguir enviándole mensajes administrativos.
+4.2 Cómo puede acceder, rectificar o cancelar su Información personal
+Si desea acceder, revisar, corregir, actualizar, suprimir, restringir o cancelar la Información personal que usted nos ha proporcionado anteriormente, si desea oponerse a que usemos su Información personal o si quiere solicitar que le enviemos una copia electrónica de su Información personal para transmitirla a otra empresa (siempre que la ley permita que se realice dicha portabilidad de datos), puede ponerse en contacto con nosotros en: [ezpcbuildsservice@gmail.com]. Responderemos a su solicitud conforme a la ley aplicable.
+También podrá presentar una queja ante la autoridad reguladora de protección de datos competente.
+En su solicitud, indique claramente qué Información personal desea modificar, si le gustaría eliminar su Información personal de nuestra base de datos u otro procedimiento, indíquenos qué limitaciones le gustaría imponer a nuestro uso de su Información personal. Para su protección, solo ejecutaremos las solicitudes respecto a la Información personal asociada con la dirección de correo electrónico particular que usted usa para enviarnos su solicitud, y necesitaremos verificar su identidad antes de ejecutar su solicitud. Trataremos de dar respuesta a su solicitud tan pronto como sea posible.
+Tenga en cuenta que podremos necesitar conservar determinada información para fines de conservación de registros y/o completar cualquier transacción que usted haya iniciado antes de solicitar un cambio o cancelación (por ejemplo, cuando realiza una compra o participa en una promoción, no podrá cambiar o eliminar la Información personal proporcionada hasta que finalice dicha compra o promoción).
+Cuando nuestra recopilación y uso de la Información personal estén basados en su consentimiento, usted podrá retirar dicho consentimiento en cualquier momento escribiéndonos un correo electrónico a [ ezpcbuildsservice@gmail.com], y dicha retirada no afectará a la legitimidad del tratamiento basado en su consentimiento antes de su retirada.
+5. TRANSFERENCIA TRANSFRONTERIZA
+Las Propiedades son controladas y gestionadas desde Alemania; en consecuencia, esta Política de Privacidad y la recopilación, uso y revelación que hacemos de su Información personal, se rige por las leyes de Alemania. Su Información personal se podrá almacenar y tratar en cualquier país en el que contemos con instalaciones o en el que contratemos a proveedores de servicios y al usar las Propiedades usted entiende que su información se transferirá a países fuera de su país de residencia, incluidos los países fuera del EEE, que pueden tener leyes de protección de datos diferentes a las de su país.
+Si usted está en el EEE: Algunos de los países que no pertenecen al EEE son reconocidos por la Comisión Europea por proporcionar un nivel adecuado de protección de los datos conforme a los estándares del EEE. La lista completa de dichos países está disponible aquí: https://ec.europa.eu/info/law/law-topic/data-protection_de. Para transferencias desde los países del EEE a países que la Comisión Europea no considera adecuados, hemos establecido unas medidas adecuadas, como cláusulas contractuales estándar, adaptadas por la Comisión Europea para la Información personal. Puede conseguir una copia de dichas medidas poniéndose en contacto con [https://www.aepd.es/].
+6. ACTUALIZACIONES A ESTA POLÍTICA DE PRIVACIDAD
+Podremos modificar esta Política de Privacidad en cualquier momento. Eche un vistazo a la leyenda "ÚLTIMA REVISIÓN" en la parte superior de esta página para ver cuando se revisó por última vez esta Política de Privacidad. Cualquier cambio en esta Política de Privacidad será efectivo cuando proporcionemos la Política de Privacidad revisada en o a través de una Propiedad.
+7. CONTACTO
+EzpcBuilds es la empresa responsable de recopilar, usar y revelar su Información personal en virtud de esta Política de Privacidad:
+ezpcbuildsservice@gmail.com
 
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel's robust library of first-party tools and libraries, such as <a href="https://forge.laravel.com" class="underline">Forge</a>, <a href="https://vapor.laravel.com" class="underline">Vapor</a>, <a href="https://nova.laravel.com" class="underline">Nova</a>, and <a href="https://envoyer.io" class="underline">Envoyer</a> help you take your projects to the next level. Pair them with powerful open source libraries like <a href="https://laravel.com/docs/billing" class="underline">Cashier</a>, <a href="https://laravel.com/docs/dusk" class="underline">Dusk</a>, <a href="https://laravel.com/docs/broadcasting" class="underline">Echo</a>, <a href="https://laravel.com/docs/horizon" class="underline">Horizon</a>, <a href="https://laravel.com/docs/sanctum" class="underline">Sanctum</a>, <a href="https://laravel.com/docs/telescope" class="underline">Telescope</a>, and more.
-                                </div>
+ </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
-                    <div class="text-center text-sm text-gray-500 sm:text-left">
-                        <div class="flex items-center">
-                            <svg fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor" class="-mt-px w-5 h-5 text-gray-400">
-                                <path d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"></path>
-                            </svg>
-
-                            <a href="https://laravel.bigcartel.com" class="ml-1 underline">
-                                Shop
-                            </a>
-
-                            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="ml-4 -mt-px w-5 h-5 text-gray-400">
-                                <path d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
-                            </svg>
-
-                            <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                                Sponsor
-                            </a>
-                        </div>
-                    </div>
-
+            
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>

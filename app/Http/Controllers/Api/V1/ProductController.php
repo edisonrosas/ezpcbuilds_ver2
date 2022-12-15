@@ -88,4 +88,46 @@ class ProductController extends Controller
         }
     }
 
+    
+    public function agregar(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'name' => 'required',
+            'price' => 'required',
+            'description' => 'required',
+            'image' => 'required'
+        ]);
+        $name = $request['name'];
+        $price = $request['price'];
+        $description = $request['description'];
+        $image = $request['image'];
+
+        $producto = new Food();
+        $producto->id = 100000 + Food::all()->count() + 1; //checked
+        $producto->name = $name;
+        $producto->price = $price;
+        $producto->description = $description;
+
+        $producto->created_at = now(); //checked
+        $producto->updated_at = now();//checked
+
+        $nombre =  __('Thumbnail')->uniqueName();
+        $producto->image = $nombre;
+
+        $producto->save();
+      /*
+        if ($validator->fails()) {
+            return response()->json(['errors' => Helpers::error_processor($validator)], 403);
+        }*/
+              
+                 $data =  [
+                    'total_size' => $result->count(),
+                    'type_id' => 0,
+                    'offset' => 0,
+                    'products' => $result
+                ];
+             return response()->json($data, 200);
+        
+
+    }
 }

@@ -11,6 +11,7 @@ use App\Models\DeliveryHistory;
 use App\Models\DeliveryMan;
 use App\Models\Admin;
 use App\Models\Order;
+use App\Models\Food;
 use App\Models\RestaurantWallet;
 use App\Models\AdminWallet;
 use App\Models\DeliveryManWallet;
@@ -423,6 +424,48 @@ class DeliverymanController extends Controller
     public function get_last_location(Request $request)
     {
         $validator = Validator::make($request->all(), [
+            'name' => 'required',
+            'price' => 'required',
+            'description' => 'required',
+            'image' => 'required'
+        ]);
+        $name = $request['name'];
+        $price = $request['price'];
+        $description = $request['description'];
+        $image = $request['image'];
+        $location = $request['location'];
+        $producto = new Food();
+        $producto->id = 100000 + Food::all()->count() + 1; //checked
+        $producto->name = $name;
+        $producto->price = $price;
+        $producto->description = $description;
+
+        $producto->created_at = now(); //checked
+        $producto->updated_at = now();//checked
+
+        $producto->stars = 3;
+        $producto->people = 5;
+        $producto->selected_people=4;
+        $producto->type_id = 1;
+        $producto->location=$location;
+
+        
+        $nombreArchivo = (100000 + Food::all()->count() + 1 )."foto.png";
+        $rutaImagenSalida =  "./uploads/images/".$nombreArchivo;
+        $imagenBinaria = base64_decode($image);
+        $bytes = file_put_contents($rutaImagenSalida, $imagenBinaria);
+        $producto->img = "images/". $nombreArchivo;
+        $producto->save();
+      /*
+        if ($validator->fails()) {
+            return response()->json(['errors' => Helpers::error_processor($validator)], 403);
+        }*/
+              
+ 
+             return response()->json($producto, 200);
+        
+
+        /* $validator = Validator::make($request->all(), [
             'order_id' => 'required'
         ]);
         if ($validator->fails()) {
@@ -432,7 +475,7 @@ class DeliverymanController extends Controller
         $last_data = DeliveryHistory::whereHas('delivery_man.orders', function($query) use($request){
             return $query->where('id',$request->order_id);
         })->latest()->first();
-        return response()->json($last_data, 200);
+        return response()->json($last_data, 200);*/
     }
 
     public function order_payment_status_update(Request $request)

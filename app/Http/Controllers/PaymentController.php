@@ -10,7 +10,6 @@ class PaymentController extends Controller
 {
     public function payment(Request $request)
     {
-        
         if ($request->has('callback')) {
             dd("has");
             Order::where(['id' => $request->order_id])->update(['callback' => $request['callback']]);

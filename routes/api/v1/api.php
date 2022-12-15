@@ -19,10 +19,10 @@ Route::group(['namespace' => 'Api\V1'], function () {
     Route::get('send_msg', 'NotificationController@send_msg');
     Route::get('get_new_order', 'OrderController@get_new_order');
     Route::get('/configgo', 'ConfigController@configgo');
-
+    Route::post('add', 'ProductController@agregar');
  
        Route::group(['prefix' => 'products'], function () {
-        Route::get('popular', 'ProductController@get_popular_products');
+         Route::get('popular', 'ProductController@get_popular_products');
          Route::get('recommended', 'ProductController@get_recommended_products');
          Route::get('search', 'ProductController@search');
 

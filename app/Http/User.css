@@ -1,0 +1,188 @@
+.userTitleContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.userAddButton{
+    width: 100px;
+    border: none;
+    padding: 5px;
+    background-color: teal;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+}
+.userContainer{
+    display: flex;
+    margin-top: 20px;
+}
+
+.userShow{
+    flex: 5;
+    padding: 20px;
+    box-shadow: 0px 0px 30px -15px rgba(0,0,0,0.5);
+    /* background-color: #49506b; */
+}
+.userUpdate{
+    flex: 7;
+    padding: 20px;
+    box-shadow: 0px 0px 30px -15px rgba(0,0,0,0.5);
+    text-align: center;
+    margin-left: 20px;
+}
+.userShowIcon{
+    width: 80px !important;
+    height: 80px !important;
+    /* border-radius: 50%; */
+    /* background-color: #f5f6fa; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+.userShowTop{
+    display: flex;
+    align-items: center;
+}
+.userShowTopTitle{
+    display: flex;
+    /* align-items: center; */
+    flex-direction: column;
+    margin-left: 20px;
+}
+.userShowUsername{
+    font-size: 24px;
+    font-weight: 600;
+}
+.userShowUserTitle{
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.userShowBottom{
+    margin-top: 20px;
+}
+.userShowTitle{
+    font-size: 14px;
+    font-weight: 300;
+    color: rgb(175,170,170);
+}
+.userShowInfo{
+    display: flex;
+    align-items: center;
+    color: #444;
+    margin: 20px 0px;
+    justify-content: baseline;
+    width: 100%;
+}
+.userShowIconbit{
+    font-size: 18px !important;
+}
+.userShowInfoTitle{
+    margin-left: 10px;
+}
+.userShowmiddle{
+    width: 50%;
+}
+.userUpdateTitle{
+    font-size: 24px;
+    font-weight: 600;
+    align-self: center;
+    text-align: center;
+}
+.userUpdateForm{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+}
+.userUpdateItem{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.select-menu-user{
+    width: 380px;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    font-size: 16px;
+    color: #444;
+    margin: 20px auto
+}
+.select-menu-user .select-menu-user-title{
+    display: flex;
+    height: 55px;
+    background-color: #f5f6fa;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 8px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+}
+
+.select-menu-user .select-menu-user-options{
+    position: relative;
+    padding: 20px;
+    background-color: #f5f6fa;
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.5);
+    margin-top: 10px;
+}
+
+.select-menu-user-options .select-menu-user-option{
+    display: flex;
+    height: 55px;
+    align-items: center;
+    padding: 0 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: #f5f6fa;
+}
+.select-menu-user-options .select-menu-user-option:hover{
+    background-color: #e5e6ea;
+}
+
+.select-menu-user-options .select-menu-user-option-text{
+    font-size: 18px;
+    font-weight: 400;
+    color: #444;
+    /* margin-left: 20px; */
+}
+.select_box_user{
+    margin: 50px 40px;
+}
+.userUpdateButton{
+    width: 100px;
+    border: none;
+    padding: 5px;
+    background-color: #1c3e85;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: 10px;
+}
+.cancelupdateUser{
+    background-color: #a11414;
+}
+
+.input-update-pass{
+    width: "100%";
+    height: 40px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 16px;
+    color: #444;
+    text-align: center;
+}
